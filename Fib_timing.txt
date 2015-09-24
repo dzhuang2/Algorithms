@@ -1,0 +1,16 @@
+********************************************************************************
+Fibonacci Heap
+********************************************************************************
+total time: 37.19700
+insert: called = 2000, avg_time = 0.00001, total_time = 0.01300
+extract_min: called = 2000, avg_time = 0.00012, total_time = 0.23300
+decrease_key: called = 15599, avg_time = 0.00000, total_time = 0.07400
+__getitem__: called = 3998000, avg_time = 0.00000, total_time = 4.08200
+********************************************************************************
+Min Heap
+********************************************************************************
+total time: 39.56900
+push: called = 2000, avg_time = 0.00000, total_time = 0.01000
+pop: called = 2000, avg_time = 0.00007, total_time = 0.13400
+decrease_key: called = 15669, avg_time = 0.00001, total_time = 0.18300
+__getitem__: called = 3998000, avg_time = 0.00000, total_time = 4.34000
